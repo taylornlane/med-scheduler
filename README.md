@@ -13,7 +13,7 @@ AI-powered medication tracker that reads prescription labels with Claude vision,
 - **Discontinuation warnings** — flags missed doses for medications with withdrawal risk (SSRIs, benzodiazepines, corticosteroids, etc.)
 ## Tech Stack
  
-**Frontend:** React 19, Vite 7, plain inline styles, Lucide React, Google Fonts
+**Frontend:** React 19, Vite 7, Inline styles with utility patterns, Lucide React, Google Fonts
  
 **Backend:** Vercel Serverless Functions (Node.js, ES modules)
  
